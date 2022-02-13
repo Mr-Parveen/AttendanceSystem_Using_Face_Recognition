@@ -1,0 +1,6 @@
+these are Pip installer packages
+
+install opencv_Python
+install numpy
+install face_recognition
+install csv
